@@ -1,6 +1,6 @@
 # DevInSanta
 
-Inicialmente a comunidade irá se organizar em: [DevInSanta no meetup](https://github.com/devinsanta/website).
+A princípio a comunidade irá se organizar em: [DevInSanta no meetup](https://github.com/devinsanta/website).
 
 A idéia principal é difundir conhecimento para que toda a comunidade cresça profissionalmente. Inicialmente a função do site será agregar todos os eventos de tecnologia da cidade. Assim como o desenvolvedor poderá participar do evento. 
 
