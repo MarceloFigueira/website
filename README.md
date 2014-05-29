@@ -9,12 +9,13 @@ __Por que fazer um website se podemos usar o Meetup?__
 R: Porque o interesse é programar em equipe, trocar idéias, gerar conversa em torno de código.
 
 ## Vamos começar?
-1. ```git clone REPO_URL```
-2. ```cd devinsanta```
-3. ```bundle```
-4. ```rake db:setup```
-5. ```foreman start```
-6. Vá para http://localhost:3000
+1 Dê um fork no projeto
+2. ```git clone REPO_URL```
+3. ```cd devinsanta```
+4. ```bundle```
+5. ```rake db:setup```
+6. ```foreman start```
+7. Vá para http://localhost:3000
 
 ## Run specs
 
