@@ -9,4 +9,4 @@
 
 # Make sure your secret_key_base is kept private
 # if you're sharing your code publicly.
-Devinsanta::Application.config.secret_key_base = '624687d8d9249d3e8544346de15ce2be865f470a5c466b64b3549cbb5d4a2dc9a1dcc2f47ba7f28f73176b02616f27c8f3bdc71db8b578a567403752cbf81eb7'
+Devinsanta::Application.config.secret_key_base = ENV['SECRET_TOKEN']
