@@ -9,7 +9,7 @@ __Por que fazer um website se podemos usar o Meetup?__
 R: Porque o interesse é programar em equipe, trocar idéias, gerar conversa em torno de código.
 
 ## Vamos começar?
-1 Dê um fork no projeto
+1. Dê um fork no projeto
 2. ```git clone REPO_URL```
 3. ```cd devinsanta```
 4. ```bundle```
