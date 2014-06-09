@@ -3,7 +3,7 @@ development:
   encoding: utf8
   database: devinsanta_development
   pool: 5
-  username: postgres
+  username: devinsanta
   host: localhost
   template: template0
 
@@ -12,7 +12,7 @@ test:
   encoding: utf8
   database: devinsanta_test
   pool: 5
-  username: postgres
+  username: devinsanta
   min_messages: WARNING
   host: localhost
   template: template0
