@@ -1,0 +1,18 @@
+<h1>DevInSanta</h1>
+<h2> Comunidade de Desenvolvedores de Santarém </h2>
+
+<h3> Ninjas </h3>
+
+<ul>
+  <% @members.each do |member| %>
+  <li>
+    <span> <%= image_tag(member['photo']['thumb_link']) %> </span>
+    <span> <%= member['name'] %> </span>
+    <span> <%= link_to('Perfil', member['profile_url']) %> </span>
+  </li>
+  <% end %>
+</ul>
+
+
+
+
