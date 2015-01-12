@@ -11,7 +11,7 @@ R: Porque o interesse é programar em equipe, trocar idéias, gerar conversa em 
 ## Vamos começar?
 1. Dê um fork no projeto
 2. ```git clone REPO_URL```
-3. ```cd devinsanta```
+3. ```cd website```
 4. ```bundle```
 5. ```rake db:setup```
 6. ```foreman start```
